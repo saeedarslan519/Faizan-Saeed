@@ -1,4 +1,4 @@
-Hi 👋 I 'm Faizan Saeed
+ Hi 👋 I'm Faizan Saeed
 ## 👋 About Me<br><br>Hi there! I'm a passionate and curious individual who enjoys exploring new ideas, solving problems, and continuously learning. I have a strong interest in technology and love working on projects that challenge me to grow both technically and creatively.<br><br>💡 **What I Do**<br><br>* Build and experiment with different projects<br>* Learn new tools, technologies, and concepts<br>* Continuously improve my skills through practice and curiosity<br><br>🚀 **Interests**<br><br>* Programming & Software Development<br>* Problem Solving & Logical Thinking<br>* Exploring new technologies and trends<br><br>🎯 **Goals**<br><br>* Become a highly skilled developer<br>* Contribute to meaningful projects<br>* Keep learning and evolving every day<br><br>📫 **Let's Connect**<br>I'm always open to collaboration, learning opportunities, and interesting conversations!<br>
 
 
